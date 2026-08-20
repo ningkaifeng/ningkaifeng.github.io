@@ -1,34 +1,55 @@
 ---
+---
 layout: about
-title: about
+title: 关于我
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 独立研究者 · 治水学（Dynamic Sustenance Theory, DST）创立者
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # true=圆形头像，false=方形头像
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>邮箱：357693700@qq.com</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true # 展示标记为selected的论文
+social: true # 开启底部学术社交图标
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false # 关闭博客模块，页面更简洁
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## 个人简介
+我是宁凯峰，独立研究者，**治水学（Dynamic Sustenance Theory, DST）** 理论创立者，主要围绕治水学、治水文明与自主知识体系建设开展跨学科基础理论研究。本理论立足于本土文明实践，尝试构建面向永恒流变场景下系统存续的通用元理论框架。
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+## 研究成果
+1. 治水学：永恒流变中系统存续的操作元理论（v14.0）
+https://doi.org/10.17605/OSF.IO/BJAQC
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+2. 治水文明与自主知识体系建设
+https://doi.org/10.17605/OSF.IO/85YSP
+https://doi.org/10.5281/zenodo.21753086
+
+3. 治水学 V15.0
+https://doi.org/10.5281/zenodo.20278692
+
+4. 治水学 v15.0 元辩护版
+https://doi.org/10.5281/zenodo.20372186
+
+5. From Static Principles to Dynamic Diagnosis: A Ti-Xiang Toolkit-Based Framework for AI Governance
+https://doi.org/10.5281/zenodo.22008333
+
+6. Beyond Process and System: A “Pattern Continuity” Ontology for Dynamic Sustenance
+https://doi.org/10.5281/zenodo.22009627
+
+## 学术主页标识
+ORCID：[https://orcid.org/0009-0001-4414-6058](https://orcid.org/0009-0001-4414-6058)
+Academia.edu：[https://independentresearcher.academia.edu/KaifengNing](https://independentresearcher.academia.edu/KaifengNing)
+
