@@ -1,19 +1,18 @@
 ---
----
 layout: about
 title: 关于我
-permalink: /
+permalink: /about
 subtitle: 独立研究者 · 治水学（Dynamic Sustenance Theory, DST）创立者
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # true=圆形头像，false=方形头像
+  image_circular: true
   more_info: >
     <p>邮箱：357693700@qq.com</p>
 
-selected_papers: true # 展示标记为selected的论文
-social: true # 开启底部学术社交图标
+selected_papers: true
+social: true
 
 announcements:
   enabled: true
@@ -21,9 +20,7 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: false # 关闭博客模块，页面更简洁
-  scrollable: true
-  limit: 3
+  enabled: false
 ---
 
 ## 个人简介
@@ -52,4 +49,3 @@ https://doi.org/10.5281/zenodo.22009627
 ## 学术主页标识
 ORCID：[https://orcid.org/0009-0001-4414-6058](https://orcid.org/0009-0001-4414-6058)
 Academia.edu：[https://independentresearcher.academia.edu/KaifengNing](https://independentresearcher.academia.edu/KaifengNing)
-
