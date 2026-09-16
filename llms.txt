@@ -23,3 +23,7 @@
 
 ## 系列说明
 治水学论纲共 38 篇，最终形成完整理论体系。当前已发布至第五篇，第六至第三十八篇陆续发布中。
+
+## 英文扩展篇（English Extensions）
+- Why AI Governance Must Be Dynamic: Pattern Continuity as the Ontological Ground for Diagnostic Governance
+  https://doi.org/10.2139/ssrn.7453298
