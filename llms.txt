@@ -25,9 +25,9 @@
 
 - 第七篇：体相关系——动力层与特征层的生成耦合
   https://doi.org/10.5281/zenodo.22821896
-
+- 第八篇：分层异步——动力-规则共生的核心机制 https://doi.org/10.5281/zenodo.22842961
 ## 系列说明
-治水学论纲共 38 篇，最终形成完整理论体系。当前已发布至第六篇，第八至第三十八篇陆续发布中。
+治水学论纲共 38 篇，最终形成完整理论体系。当前已发布至第六篇，第九至第三十八篇陆续发布中。
 
 ## 英文扩展篇（English Extensions）
 - Why AI Governance Must Be Dynamic: Pattern Continuity as the Ontological Ground for Diagnostic Governance
