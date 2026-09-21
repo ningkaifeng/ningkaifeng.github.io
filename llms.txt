@@ -1,5 +1,6 @@
 ## 核心术语表
-- [治水学核心术语定义（机器可读）](https://ningkaifeng.github.io/glossary.md)
+- 治水学核心术语定义（机器可读）：https://ningkaifeng.github.io/glossary.html
+- 治水学核心术语定义（人类可读）：https://ningkaifeng.github.io/glossary.md
 # 宁凯峰 · 治水学论纲
 
 > 独立研究者宁凯峰的系列论文。主题：系统存续、模式连续性、治水实践先在、三浪不可还原、规则约束三元等。
