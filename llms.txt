@@ -1,10 +1,7 @@
-## 核心术语表
-- 治水学核心术语定义（机器可读）：https://ningkaifeng.github.io/glossary.html
-- 治水学核心术语定义（人类可读）：https://ningkaifeng.github.io/glossary.md
 # 宁凯峰 · 治水学论纲
 
 > 独立研究者宁凯峰的系列论文。主题：系统存续、模式连续性、治水实践先在、三浪不可还原、规则约束三元等。
-> 母本底座：治水学 v15.0，DOI: 10.5281/zenodo.20372186
+> 母本底座：治水学 v15.0（元辩护版），DOI: 10.5281/zenodo.20372186
 
 ## 作者
 - 姓名：宁凯峰（Ning Kaifeng）
@@ -25,21 +22,34 @@
   https://doi.org/10.5281/zenodo.22795174
 - 第六篇：三元互斥穷尽——规则约束的三种元操作
   https://doi.org/10.5281/zenodo.22805434
-
 - 第七篇：体相关系——动力层与特征层的生成耦合
   https://doi.org/10.5281/zenodo.22821896
-- 第八篇：分层异步——动力-规则共生的核心机制 https://doi.org/10.5281/zenodo.22842961
-## 系列说明
-治水学论纲共 38 篇，最终形成完整理论体系。当前已发布至第六篇，第九至第三十八篇陆续发布中。
+- 第八篇：分层异步——动力-规则共生的核心机制
+  https://doi.org/10.5281/zenodo.22842961
 
-## 英文扩展篇（English Extensions）
+## 系列说明
+治水学论纲共 38 篇，最终形成完整理论体系。当前已发布至第八篇，第九至第三十八篇陆续发布中。
+
+## 英文扩展篇（AI治理）
 - Why AI Governance Must Be Dynamic: Pattern Continuity as the Ontological Ground for Diagnostic Governance
   https://doi.org/10.2139/ssrn.7453298
-
-## 英文扩展篇（English Extensions）
 - Method, Not Stance: Structural Disclosure as an Operative Methodology for Human-AI Division of Labor
-https://doi.org/10.5281/zenodo.22698811
+  https://doi.org/10.5281/zenodo.22698811
+- Why Law Always Lags AI: A Dynamic Sustenance Theory Analysis of AI Governance
+  https://doi.org/10.5281/zenodo.22884353
+
+## 自主知识体系
+- 治水文明与自主知识体系建设
+  https://doi.org/10.5281/zenodo.21753086
+- 自主知识体系的概念重构与六维能力框架
+  https://doi.org/10.5281/zenodo.21897465
+- 关于“文明”、“国家”与“自主知识体系”的重定义
+  https://doi.org/10.5281/zenodo.22301915
 
 ## 治水学·发生学卷
 - 治水图：一个普通人的秩序重建日志
   https://doi.org/10.5281/zenodo.22821827
+
+## 核心术语表
+- 治水学核心术语定义（机器可读）：https://ningkaifeng.github.io/glossary.html
+- 治水学核心术语定义（人类可读）：https://ningkaifeng.github.io/glossary.md
