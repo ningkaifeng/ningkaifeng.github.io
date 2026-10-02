@@ -1,29 +1,5 @@
 User-agent: *
 Allow: /
 
-# AI crawlers — explicitly allowed
-User-agent: GPTBot
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: Bytespider
-Allow: /
-
-User-agent: CCBot
-Allow: /
-
-User-agent: meta-externalagent
-Allow: /
-
-User-agent: Applebot-Extended
-Allow: /
-
-Sitemap: https://ningkaifeng.github.io/sitemap.xml
+# 本域名（旧版）已迁移至 https://zhishuixue.com/ ，内容不再更新
+Sitemap: https://zhishuixue.com/sitemap.xml
